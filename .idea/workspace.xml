@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SmallLangV2-Compiler-part2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd263a59-81c2-4057-b055-fa4e9725b16c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c4sYV0yNQRkBuEqM7n41pbtASt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CPS 2000 - Compiler Theory Assignment Part1/Digital Artefacts Part 1" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Visitors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\Grammars" />
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\ANTLR\Grammars" />
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\ANTLR" />
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\gen\ANTLR" />
+      <recent name="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainANTLR">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SmallLangV2-Compiler-part2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainANTLR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainANTLR" />
+      <module name="SmallLangV2-Compiler-part2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainANTLR" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd263a59-81c2-4057-b055-fa4e9725b16c" name="Default Changelist" comment="" />
+      <created>1589799247855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589799247855</updated>
+      <workItem from="1589799250873" duration="20248000" />
+      <workItem from="1589825713230" duration="426000" />
+      <workItem from="1589883738426" duration="1515000" />
+      <workItem from="1589898544064" duration="5495000" />
+      <workItem from="1589904595499" duration="6355000" />
+      <workItem from="1589969276971" duration="29795000" />
+      <workItem from="1590046292962" duration="7091000" />
+      <workItem from="1590059808761" duration="2310000" />
+      <workItem from="1590136558646" duration="16989000" />
+      <workItem from="1590224284781" duration="12587000" />
+      <workItem from="1590243214998" duration="174000" />
+      <workItem from="1590244109443" duration="1206000" />
+      <workItem from="1590245434719" duration="251000" />
+      <workItem from="1590246050079" duration="621000" />
+      <workItem from="1590247438447" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1589799276872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589799276872" />
+    <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589804553787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589804553787" />
+    <state x="719" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590244137673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590244137673" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1590001490605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590001490605" />
+    <state x="711" y="374" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590245513651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="374" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590245513651" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589977778649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589977778649" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590247497973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590247497973" />
+    <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590247195943" />
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1590247395610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590247395610" />
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590241993400" />
+    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1590247395610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590247395610" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590241993400" />
+    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1590247395610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590247395610" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590241993400" />
+    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1590247395610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590247395610" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590241993400" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1590245539051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590245539051" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590163029608" />
+    <state x="2576" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1590246054130">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590245435027" />
+    <state x="2576" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590246054130" />
+    <state x="2084" y="0" width="1394" height="1028" maximized="true" key="dock-window-1" timestamp="1590059820804">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2084" y="0" width="1394" height="1028" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590059820804" />
+    <state x="2397" y="0" width="1399" height="1028" maximized="true" key="dock-window-2" timestamp="1590046380461">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2397" y="0" width="1399" height="1028" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590046380461" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/ANTLR/SmallLang.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\ANTLR" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/ANTLR/Grammars/SmallLang.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\ANTLR" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="Artefacts" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/ANTLR/Grammars/SmallLangV2.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src\ANTLR" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="ArtefactsV2" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/Grammars/SmallLang.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="ANTLR" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/Grammars/SmallLangV2.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Owner\IdeaProjects\SmallLangV2-Compiler-part2\src" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="ANTLRV2" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

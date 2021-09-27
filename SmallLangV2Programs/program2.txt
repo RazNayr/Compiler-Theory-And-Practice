@@ -1,0 +1,13 @@
+ff XGreaterThanY(x: float, y: float) : auto {
+    let ans:bool = true;
+    if(y > x) {
+        ans = false;
+    }
+    return ans;
+}
+
+let numX:auto = 2.5;
+let numY:auto = 3.0;
+
+print XGreaterThanY(numX, numY); //false
+

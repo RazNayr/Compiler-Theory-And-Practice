@@ -1,0 +1,24 @@
+ff Square(x: float) : auto {
+    return x*x;
+}
+
+ff XGreaterThanY(x: float, y: float) : auto {
+    let ans:bool = true;
+    if(y > x) { ans = false; }
+    return ans;
+}
+
+ff AverageOfThree(x: float, y: float, z: float) : float {
+    let total:float = x + y + z;
+    return total/3.0;
+}
+
+let x:float = 2.4;
+let z:int = 2;
+let y:auto = Square(2.5);
+
+print y; //6.25
+print XGreaterThanY(x,2.3); //true
+print XGreaterThanY(Square(1.5), y); //false
+print AverageOfThree(x, y, 1.2); //3.28
+

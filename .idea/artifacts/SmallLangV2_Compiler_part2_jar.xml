@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmallLangV2-Compiler-part2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmallLangV2_Compiler_part2_jar</output-path>
+    <root id="archive" name="SmallLangV2-Compiler-part2.jar">
+      <element id="module-output" name="SmallLangV2-Compiler-part2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/antlr-4.8-complete.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

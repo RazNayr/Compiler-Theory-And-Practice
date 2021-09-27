@@ -1,0 +1,10 @@
+/* This
+is
+a
+multi-line
+comment */
+
+let x:int = 5;
+
+//Printing x
+print x; //Value of 5
